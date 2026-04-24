@@ -9,14 +9,12 @@
 본 프로젝트는 Next.js 기반으로 구축되었습니다.
 
 1. 의존성 설치:
-   ```bash
    npm install
-   ```
+
 
 2. 개발 서버 실행:
-   ```bash
    npm run dev
-   ```
+
 
 3. 브라우저에서 `http://localhost:3000`으로 접속하여 대시보드 확인.
 
